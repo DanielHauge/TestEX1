@@ -21,3 +21,4 @@ Input     |  Expected Output  |   Actual Output   |  Outcome (Pass or fail)
 1994, 1994, 1994   | Equilateral       | N/A               | N/A
 1, 1, 1, 0   | Error       | N/A               | N/A
 1, 1   | Error       | N/A               | N/A
+"One", "Two", "Three"   | Error       | N/A               | N/A
